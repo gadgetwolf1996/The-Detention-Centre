@@ -1,0 +1,7 @@
+[Warden] Welcome to the Detention Centre. Its your first day right?
+[Warden] Well as long as you do what is asked of you then we wont have a problem.
+[Warden] You got that?
+[You] ...
+[Warden] Now go through the south set of doors and start Detainee intake. There will be another Guard around there somewhere.
+[Warden] When you do that come back and talk to me.
+[Warden] So how was your day?

@@ -1,0 +1,3 @@
+[Receptionist] Hello, you're the new guy aren't you?
+[You] ...
+[Receptionist] Thought so! First you need to go through the doors to the left of me. There you'll meet the Warden who is giving out your targets for today.
